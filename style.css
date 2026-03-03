@@ -1,0 +1,53 @@
+/* page background */
+body {
+    background-color: #f0f0f0; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.homepage {
+    color: yellow;
+    background-color: orangered;
+    text-align: center;
+    width: 600px;
+    margin: 20px auto; 
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.recipe-list {
+    list-style-type: none; /* Removes bullets */
+    padding: 0;
+    text-align: center;    /* Centers the group of squares */
+}
+
+/* The Orange Squares */
+.recipe-card {
+    background-color: orangered;
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    border-radius: 4px;
+    vertical-align: top; 
+}
+
+.recipes {
+    color: yellow;
+    text-decoration: none;
+    display: block;     
+    padding: 40px 10px; 
+    font-weight: bold;
+    text-align: center;
+}
+.cheese {
+    color:yellow;
+    background-color: black;
+    font-family: 'Arial', Helvetica, sans-serif;
+    text-align: center;
+    width: 600px;
+    margin: 20px 0px;
+    padding: 20px;
+    border-radius:8px;
+}
+
